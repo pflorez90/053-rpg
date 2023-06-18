@@ -1,11 +1,17 @@
 # Acróbata
 
 > **Requisitos:** -
+> 
 > **Requisito principal:** DES
+> 
 > **Dados de Golpe:** 1d4
+> 
 > **Nivel máximo:** 14
+> 
 > **Armadura:** Cuero, no puede usar escudos.
+> 
 > **Armas:** Armas a distancia, daga, espada corta, arma de asta, lanza, bastón.
+> 
 > **Idiomas:** Alineamiento, común.
 
 Los acróbatas son maestros del equilibrio, la gimnasia y el sigilo. A menudo trabajan con ladrones y pueden pertenecer a un gremio de ladrones.

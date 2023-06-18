@@ -1,14 +1,12 @@
 # Acólito
 
-<aside>
-**Requisitos**: -
+> **Requisitos**: -
 **Requisito Principal**: SAB
 **Dados de Golpe:** 1d6
 **Nivel Máximo:** 14
 **Armadura:** Cualquier armadura, incluyendo escudos.
 **Armas:** Cualquier arma contundente.
 **Idiomas:** Alineamiento, común.
-</aside>
 
 Los acólitos son aventureros que han jurado servir a una deidad. Están entrenados para la batalla y pueden canalizar el poder de su deidad.
 
