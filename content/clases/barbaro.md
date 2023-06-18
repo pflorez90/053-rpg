@@ -1,15 +1,13 @@
 # Bárbaro
 
-<aside>
-📖 **Requisitos**: DES
-**Requisito Principal**: CON y FUE
-**Dados de Golpe:** 1d8
-**Nivel Máximo:** 14
-**Armadura:** Cuero, cota de malla, escudos.
-**Armas:** Cualquiera.
-**Idiomas:** Alineamiento, común.
 
-</aside>
+> **Requisitos**: DES
+> **Requisito Principal**: CON y FUE
+> **Dados de Golpe:** 1d8
+> **Nivel Máximo:** 14
+> **Armadura:** Cuero, cota de malla, escudos.
+> **Armas:** Cualquiera.
+> **Idiomas:** Alineamiento, común.
 
 Los bárbaros son primitivos guerreros tribales de tierras salvajes e incivilizadas. Son guerreros formidables con muchas habilidades útiles para la supervivencia, aunque desconfían de las artes arcanas.
 
@@ -19,22 +17,22 @@ Los bárbaros son primitivos guerreros tribales de tierras salvajes e inciviliza
 
 # Progresión del bárbaro
 
-| Nivel | PX | DG | Bono | M | V | P | A | H |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 0 | 1d8 | 0 | 10 | 13 | 12 | 15 | 16 |
-| 2 | 2.500 | 2d8 | 0 | 10 | 13 | 12 | 15 | 16 |
-| 3 | 5.000 | 3d8 | 0 | 10 | 13 | 12 | 15 | 16 |
-| 4 | 10.000 | 4d8 | +2 | 8 | 11 | 10 | 13 | 13 |
-| 5 | 18.500 | 5d8 | +2 | 8 | 11 | 10 | 13 | 13 |
-| 6 | 37.000 | 6d8 | +2 | 8 | 11 | 10 | 13 | 13 |
-| 7 | 85.000 | 7d8 | +5 | 6 | 9 | 8 | 10 | 10 |
-| 8 | 140.000 | 8d8 | +5 | 6 | 9 | 8 | 10 | 10 |
-| 9 | 270.000 | 9d8 | +5 | 6 | 9 | 8 | 10 | 10 |
-| 10 | 400.000 | 9d8+3* | +7 | 4 | 7 | 6 | 8 | 7 |
-| 11 | 530.000 | 9d8+6* | +7 | 4 | 7 | 6 | 8 | 7 |
-| 12 | 660.000 | 9d8+9* | +7 | 4 | 7 | 6 | 8 | 7 |
-| 13 | 790.000 | 9d8+12* | +9 | 3 | 5 | 4 | 5 | 5 |
-| 14 | 920.000 | 9d8+15* | +9 | 3 | 5 | 4 | 5 | 5 |
+| Nivel | PX      | DG      | Bono | M   | V   | P   | A   | H   |
+| ----- | ------- | ------- | ---- | --- | --- | --- | --- | --- |
+| 1     | 0       | 1d8     | 0    | 10  | 13  | 12  | 15  | 16  |
+| 2     | 2.500   | 2d8     | 0    | 10  | 13  | 12  | 15  | 16  |
+| 3     | 5.000   | 3d8     | 0    | 10  | 13  | 12  | 15  | 16  |
+| 4     | 10.000  | 4d8     | +2   | 8   | 11  | 10  | 13  | 13  |
+| 5     | 18.500  | 5d8     | +2   | 8   | 11  | 10  | 13  | 13  |
+| 6     | 37.000  | 6d8     | +2   | 8   | 11  | 10  | 13  | 13  |
+| 7     | 85.000  | 7d8     | +5   | 6   | 9   | 8   | 10  | 10  |
+| 8     | 140.000 | 8d8     | +5   | 6   | 9   | 8   | 10  | 10  |
+| 9     | 270.000 | 9d8     | +5   | 6   | 9   | 8   | 10  | 10  |
+| 10    | 400.000 | 9d8+3*  | +7   | 4   | 7   | 6   | 8   | 7   |
+| 11    | 530.000 | 9d8+6*  | +7   | 4   | 7   | 6   | 8   | 7   |
+| 12    | 660.000 | 9d8+9*  | +7   | 4   | 7   | 6   | 8   | 7   |
+| 13    | 790.000 | 9d8+12* | +9   | 3   | 5   | 4   | 5   | 5   |
+| 14    | 920.000 | 9d8+15* | +9   | 3   | 5   | 4   | 5   | 5   |
 
 * No se aplican modificadores por CON.
 
@@ -54,22 +52,22 @@ En un territorio salvaje, el bárbaro puede usar las siguientes habilidades (la 
 
 ## Habilidades de bárbaro
 
-| Nivel | ES | EM | MS |
-| --- | --- | --- | --- |
-| 1 |  |  |  |
-| 2 |  |  |  |
-| 3 |  |  |  |
-| 4 |  |  |  |
-| 5 |  |  |  |
-| 6 |  |  |  |
-| 7 |  |  |  |
-| 8 |  |  |  |
-| 9 |  |  |  |
-| 10 |  |  |  |
-| 11 |  |  |  |
-| 12 |  |  |  |
-| 13 |  |  |  |
-| 14 |  |  |  |
+| Nivel | ES  | EM  | MS  |
+| ----- | --- | --- | --- |
+| 1     |     |     |     |
+| 2     |     |     |     |
+| 3     |     |     |     |
+| 4     |     |     |     |
+| 5     |     |     |     |
+| 6     |     |     |     |
+| 7     |     |     |     |
+| 8     |     |     |     |
+| 9     |     |     |     |
+| 10    |     |     |     |
+| 11    |     |     |     |
+| 12    |     |     |     |
+| 13    |     |     |     |
+| 14    |     |     |     |
 
 # Realizar chequeos de habilidad
 
